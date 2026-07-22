@@ -1,18 +1,5 @@
-![Banner](assets/GeoSpatial_Intelligence_Lab_Linkedin.png)
+![Banner](assets/GeoSpatial_Intelligence_Lab_banner.png)
 
-<p align="center">
-  <img src="assets/GeoSpatial_Intelligence_Lab_Linkedin.png"  width="100%">
-</p>
-
-<h1 align="center">GeoSpatial Intelligence Lab</h1>
-
-<p align="center">
-<b>Transforming Geospatial Data into Scientific Intelligence</b>
-</p>
-
-<p align="center">
-Earth Observation • GeoAI • Scientific Computing • Decision Intelligence
-</p>
 
 # GeoSpatial Intelligence Lab
 

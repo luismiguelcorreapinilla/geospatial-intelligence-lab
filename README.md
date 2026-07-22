@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner_gil.png" alt="GeoSpatial Intelligence Lab" width="100%">
+  <img src="assets/Laboratorio de Inteligencia Geoespacial_LinkedIn.png" alt="GeoSpatial Intelligence Lab" width="100%">
 </p>
 
 <h1 align="center">GeoSpatial Intelligence Lab</h1>

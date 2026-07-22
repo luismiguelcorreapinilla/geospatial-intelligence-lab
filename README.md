@@ -167,12 +167,6 @@ We welcome collaborations with researchers, universities, environmental organiza
 
 ## Contact
 
-**GeoSpatial Intelligence Lab**
+# Correo: bochicasimijaca@gmail.com
 
-🌍 Earth Observation
 
-🛰 Scientific Computing
-
-🤖 GeoAI
-
-📊 Decision Intelligence

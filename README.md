@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="assets/banner_gil.png" alt="GeoSpatial Intelligence Lab" width="100%">
+</p>
+
+<h1 align="center">GeoSpatial Intelligence Lab</h1>
+
+<p align="center">
+<b>Transforming Geospatial Data into Scientific Intelligence</b>
+</p>
+
+<p align="center">
+Earth Observation • GeoAI • Scientific Computing • Decision Intelligence
+</p>
+
 # GeoSpatial Intelligence Lab
 
 ### Transforming Geospatial Data into Scientific Intelligence

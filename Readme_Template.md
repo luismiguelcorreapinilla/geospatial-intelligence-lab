@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banners/banner.png" width="100%">
+  <img src="assets/banners/GeoSpatial_Intelligence_Lab_banner.png" width="100%">
 </p>
 
 <h1 align="center">Project Name</h1>

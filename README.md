@@ -1,5 +1,7 @@
+![Banner](assets/GeoSpatial_Intelligence_Lab_Linkedin.png)
+
 <p align="center">
-  <img src="assets/GeoSpatial_Intelligence_Lab_LinkedIn.png"  width="100%">
+  <img src="assets/GeoSpatial_Intelligence_Lab_Linkedin.png"  width="100%">
 </p>
 
 <h1 align="center">GeoSpatial Intelligence Lab</h1>
